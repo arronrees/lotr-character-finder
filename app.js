@@ -1,9 +1,3 @@
-function audio() {
-  document.querySelector('.soundtrack').volume = 0.5;
-}
-
-audio();
-
 let query = '';
 const regUrl = 'https://the-one-api.dev/v2/character?name=/';
 const nameUrl = 'https://the-one-api.dev/v2/character?name=';
