@@ -38,6 +38,11 @@ a {
   text-decoration: none;
 }
 
+audio {
+  opacity: 0;
+  pointer-events: none;
+}
+
 .searchForm {
   width: 100%;
   position: relative;
